@@ -11,4 +11,4 @@ Transforms comic publishing from a manual multi-step process into a single-click
 5. **State Persistence**: Remembers settings (repo paths, last page number, working directories)
 
 ## Integration
-Purpose-built for the [Solar Salvage](https://github.com/yourusername/solar-salvage) comic site workflow, generating files that trigger automatic Netlify deployments.
+Purpose-built for the [Solar Salvage](https://github.com/nbamford123/solar-salvage) comic site workflow, generating files that trigger automatic Netlify deployments.
